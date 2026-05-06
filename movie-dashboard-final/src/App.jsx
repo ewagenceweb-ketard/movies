@@ -1,0 +1,1 @@
+export default function App(){return <div style={{color:'white',background:'#020617',minHeight:'100vh',padding:'40px'}}><h1>🎬 Movie Dashboard</h1><p>Project ready for Vercel deployment.</p></div>}
